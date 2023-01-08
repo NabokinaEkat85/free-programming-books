@@ -1,5 +1,5 @@
 # Verhaltenskodex für Mitwirkende
-
+#toread
 Als die Mitwirkenden und die Verantwortlichen dieses Projekts,
 und in dem Willen, eine offene und einladende Gemeinschaft zu fördern,
 verpflichen wir uns dazu, alle Personen zu respektieren, die zum Projekt beitragen, 
